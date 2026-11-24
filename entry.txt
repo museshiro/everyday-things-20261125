@@ -1,0 +1,2 @@
+A queue is a train made of people where each carriage walks itself to the front.
+It works because a queue really does shuffle forward one person at a time, the way carriages pass a platform one by one, but it leaves out that carriages can't get bored, buy a snack, or simply walk away.
